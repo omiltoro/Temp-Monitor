@@ -7,6 +7,8 @@
 	"require": {
 		"laravel/framework": "5.0.*",
 		"guzzlehttp/guzzle": "~4.0",
+		"ext-mbstring": "*",
+
         "illuminate/html": "~5.0",
 		"jenssegers/agent": "~2.1"
     },
